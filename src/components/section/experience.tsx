@@ -1,8 +1,7 @@
 import React from 'react'
-import Image from 'next/image'
 import Link from 'next/link'
-
 import data from "../data.json"
+
 const Experience = () => {
   return (
     <section

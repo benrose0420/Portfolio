@@ -20,7 +20,7 @@ const About = () => {
         <div className='flex flex-col lg:flex-row items-center justify-center gap-8'>
             <div className='mx-auto w-1/3 lg:w-1/3 '>
                 <Image 
-                    src="/assets/profile.jpg"
+                    src="/assets/image.png"
                     width={280}
                     height={280}
                     alt='avatar'
